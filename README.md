@@ -27,16 +27,16 @@
 
 <div align="center">
 
-#### 💻 Programming & Frameworks
+#### Programming & Frameworks
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,javascript,react,bootstrap,html,css" /><br>
 
-#### 🛠 Tools & Platforms
+#### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vercel" /><br>
 
-#### 🗄 Databases
+#### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" /><br>
 
-#### 📊 Data Science & AI
+#### Data Science & AI
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 
 </div>

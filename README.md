@@ -29,7 +29,7 @@
 <div align="center">
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vue" />
 <br>
 
 #### Backend
@@ -44,12 +44,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
 <br>
 
-#### Tools
+#### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" />
-<br>
-
-#### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=vercel" />
 <br>
 
 </div>
@@ -89,7 +85,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaumiliHaldar&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaumiliHaldar&theme=nightowl&hide_border=true" width="50%" alt="GitHub Streak" />
 
 </div>
 

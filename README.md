@@ -77,13 +77,13 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaumiliHaldar&theme=nightowl" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaumiliHaldar&theme=nightowl" width="50%" />
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaumiliHaldar&theme=nightowl&utcOffset=5" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaumiliHaldar&theme=nightowl&utcOffset=5" width="50%" />
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaumiliHaldar&theme=nightowl" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaumiliHaldar&theme=nightowl" width="50%" />
 
 </div>
 

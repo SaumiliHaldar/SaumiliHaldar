@@ -2,8 +2,6 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGk3Cyn08avVQ/profile-displaybackgroundimage-shrink_350_1400/B56Zmq9EYYKAAY-/0/1759509761516?e=1773878400&v=beta&t=BDZExCLMEjpIJSR7RAcSDhu9jAtILJ9K183XKzAgza0" width="100%" alt="Banner" />
 </p>
 
-<br><br>
-
 <h1 align="center" style="color:#e6edf3;">
   Hey there! 👋 I'm <span style="color:#58a6ff;">Saumili Haldar</span>
 </h1>
@@ -15,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=SaumiliHaldar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br><br>
 
 ---
 

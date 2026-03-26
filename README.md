@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGk3Cyn08avVQ/profile-displaybackgroundimage-shrink_350_1400/B56Zmq9EYYKAAY-/0/1759509761516?e=1773878400&v=beta&t=BDZExCLMEjpIJSR7RAcSDhu9jAtILJ9K183XKzAgza0" width="100%" alt="Banner" />
-</p>
-
 <h1 align="center">
   Hey there! 👋 I'm <span style="color:#007acc;">Saumili Haldar</span>
 </h1>

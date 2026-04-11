@@ -97,7 +97,7 @@
   <a href="https://www.linkedin.com/in/saumili-haldar-0804s2003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://saumilihaldar.vercel.app" target="_blank">
+  <a href="https://saumilihaldar.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:haldar.saumili843@gmail.com" target="_blank">
